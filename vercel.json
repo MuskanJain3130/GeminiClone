@@ -3,7 +3,7 @@
   "name": "GeminiClone",
   "builds": [
     {
-      "src": "dist/**",
+      "src": "build/**",
       "use": "@vercel/static"
     }
   ]
